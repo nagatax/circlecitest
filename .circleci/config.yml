@@ -9,4 +9,4 @@ jobs:
     docker:
       - image: cimg/node:lts
     steps:
-      - sayHello
+      - sayhello
